@@ -1,0 +1,6 @@
+{
+  "base_url": "https://api.tolvain.com/v1",
+  "api_key": "opr_7f3d9a2b8c1e4f60b5a9d8c7e2f14b3a2",
+  "environment": "production",
+  "note": "operator key for payouts + custody read. rotate before offboarding. TODO: move to vault"
+}
